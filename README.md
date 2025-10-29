@@ -5,7 +5,7 @@ A Python Multiple Linear Regression I made using Python for my Econometrics assi
 
 ## Project Overview
 - **Analysis**: Multiple Linear Regression for Econometrics
-- **Tools**: Python, Jupyter Notebook, pandas, statsmodels/scikit-learn
+- **Tools**: Python, Jupyter Notebook, pandas, statsmodels, numpy
 - **Purpose**: Academic assignment for Econometrics course
 
 ## Files
